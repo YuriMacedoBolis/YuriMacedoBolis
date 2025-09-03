@@ -1,8 +1,7 @@
 ## Olá! Eu sou Yuri Macedo Bolis!
 
-- 🌱 Estudante 1 semestre de Ciência da Computação - CEUB
+- 🌱 Estudante 2 semestre de Ciência da Computação - CEUB
 - 🤔 A procura de novos aprendizados e experiências
-- 😄 Pronomes: Ele/Dele
 - 🔞 Idade: 18 Anos
 ##
 <div>
